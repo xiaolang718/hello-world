@@ -1,2 +1,4 @@
 # hello-world
-initial repository
+
+Hello readers,
+I'm xiaolang.
